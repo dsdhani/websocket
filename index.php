@@ -57,7 +57,7 @@
 			color:#191919;
 		}
 	</style>	
-	<script src="http://code.jquery.com/jquery-1.9.1.js"></script>
+	<script src="jquery-3.4.1.min.js"></script>
 	<script>
 		function showMessage(messageHTML){
 			$('#chat-box').append(messageHTML);
