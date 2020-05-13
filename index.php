@@ -56,6 +56,7 @@
 			padding:10px 8px;
 			color:#191919;
 		}
+	/* </style> */
 	</style>
 	<script src="jquery-3.4.1.min.js"></script>
 	<script>
